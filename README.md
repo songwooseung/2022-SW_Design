@@ -41,8 +41,11 @@
 |---|---|---|
 |![image](https://user-images.githubusercontent.com/110340919/274145780-2317e9a2-59aa-4592-830f-09127cca8914.png)|![image](https://user-images.githubusercontent.com/110340919/274153295-271a28a5-c4d2-4191-ac6f-b99558ca0195.png)|![image](https://user-images.githubusercontent.com/110340919/274149298-8f099beb-4be5-4fff-bd4e-58bfdb944865.png)
 |다른 사용자들이 등록한 요리를 볼 수 있고, 직접 메뉴를 추가할 수 있다.|메뉴 추가 시 사진 등록과 준비물, 레시피 순서를 추가해야 완료할 수 있다.|만들어진 메뉴를 클릭하여 음식 사진, 준비물과 레시피를 볼 수 있다.|
+
+- 내 정보
+
 |보유 재료 등록|요리한 메뉴 기록|피드백|
 |---|---|---|
 |![image](https://user-images.githubusercontent.com/110340919/274154763-8288822c-08bf-4de0-83de-22840592a9f5.png)|![image](https://user-images.githubusercontent.com/110340919/274145813-7ea5023d-51ad-4736-bff7-53d3bdb3eacc.png)|![image](https://user-images.githubusercontent.com/110340919/274149547-659877b4-23b3-462e-87ef-e1197744e1b0.png)|
-|로그인, 회원가입 선택|회원가입 시 DB에 사용자 정보 저장됨|신규 회원 & 기존 회원 로그인|
+|보유 재료를 등록하면 메뉴 화면에서 재료가 충족된 요리 메뉴가 우선적으로 뜨고 재료가 부족하면 숫자로 몇 개가 부족한지 뜬다. 순두부찌개 메뉴에 재료가 5가지가 들어가는데 4개만 있는 경우 4/5 이런 식으로!|메뉴에서 요리를 선택해 요리를 완료하게 되면 요리한 해당 날짜가 내 정보에 기록된다.|하루 동안 완료된 사용자가 섭취한 요리를 대표적인 영양성분의 기준치 대비 비율로 계산하여 피드백해준다. |
 
