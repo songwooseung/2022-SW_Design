@@ -10,7 +10,7 @@
 - **프로젝트 기간** : 2022/9 ~ 2022/12
 - **개발 엔진 및 언어** : Android Studio & Java
 - **DB관리** : SQ Lite
-- **팀원** : 박준석, 신영재, 주보겅, 신지송, 송우승
+- **팀원** : 19, 19, 20, 21, 21
 
 ## 어플 특징
 |![image](https://user-images.githubusercontent.com/110340919/274145721-dbe427a2-71c9-46ff-ace4-178a4aa410d5.png)|![image](https://user-images.githubusercontent.com/110340919/274145754-6b87492c-d6f0-4dd2-9474-8c7a483947d9.png)|![image](https://user-images.githubusercontent.com/110340919/274145780-2317e9a2-59aa-4592-830f-09127cca8914.png)|![image](https://user-images.githubusercontent.com/110340919/274145813-7ea5023d-51ad-4736-bff7-53d3bdb3eacc.png)|
